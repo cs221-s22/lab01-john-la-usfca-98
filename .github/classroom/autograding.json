@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "lab01",
+      "setup": "",
+      "run": "[\"./lab01\"]",
+      "input": "",
+      "output": "\"hello cs221\"",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
